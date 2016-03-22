@@ -1,0 +1,21 @@
+<!-- app/code/local/Envato/Recentproducts/etc/config.xml -->
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Envato_Recentproducts>
+            <version>1.0</version>
+        </Envato_Recentproducts>
+    </modules>
+    <global>
+        <blocks>
+            <recentproducts>
+                <class>Envato_Recentproducts_Block</class>
+            </recentproducts>
+        </blocks>
+        <models>
+            <recentproducts>
+                <class>Envato_Recentproducts_Model</class>
+            </recentproducts>
+        </models>
+    </global>
+</config>
